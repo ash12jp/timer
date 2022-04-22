@@ -1,0 +1,2731 @@
+﻿1
+00:00:01,330 --> 00:00:03,170
+<font color="#138ce9">WANDA:</font> <i>Previously on WandaVision...</i>
+
+2
+00:00:03,250 --> 00:00:05,630
+<font color="#138ce9">MONICA:</font> <i>Dr. Harley,
+where's my mom?</i>
+
+3
+00:00:05,710 --> 00:00:07,380
+Maria died three years ago.
+
+4
+00:00:07,460 --> 00:00:09,630
+Two years after you disappeared.
+
+5
+00:00:09,710 --> 00:00:10,760
+Captain Monica Rambeau.
+
+6
+00:00:10,840 --> 00:00:11,970
+Director Tyler Hayward.
+
+7
+00:00:12,050 --> 00:00:15,000
+<font color="#138ce9">HAYWARD:</font> <i>The program hasn't been the same</i>
+<i>since you've been up there,{\i\i1}Rambeau.</i>
+
+8
+00:00:15,010 --> 00:00:17,800
+<i>The FBI is in a tizzy up in Jersey...</i>
+
+9
+00:00:17,890 --> 00:00:21,310
+This isn't a missing person's case,
+Captain Rambeau, it's a missing town.
+
+10
+00:00:21,390 --> 00:00:23,230
+Some sort of energy field.
+
+11
+00:00:25,270 --> 00:00:28,520
+My equipment registered
+an extremely high level of CMBR.
+
+12
+00:00:28,610 --> 00:00:30,480
+Entwined was a broadcast frequency.
+
+13
+00:00:30,570 --> 00:00:32,440
+Voila, sound and picture.
+
+14
+00:00:32,530 --> 00:00:34,320
+<font color="#138ce9">WANDA:</font> You are trespassing here.
+
+15
+00:00:34,400 --> 00:00:37,240
+And I want you to leave.
+
+16
+00:00:40,160 --> 00:00:41,160
+<font color="#ff00ff">(GRUNTS)</font>
+
+17
+00:00:41,240 --> 00:00:42,290
+<font color="#138ce9">VISION:</font> <i>Where's Geraldine?</i>
+
+18
+00:00:42,370 --> 00:00:45,620
+She's gone.
+She didn't belong here.
+
+19
+00:00:45,710 --> 00:00:48,960
+<font color="#ff00ff">(PANTING)</font>
+It's all Wanda.
+
+20
+00:00:50,960 --> 00:01:05,960
+<font color="#ff00ff">- Sync and corrections by SilverStark </font><font color="#138ce9">- www.opensubtitles.org -</font>
+<font color="#ffff00">Colored HI by </font><font color="#f0100f">GoldBerg_44</font>
+
+21
+00:01:28,290 --> 00:01:29,790
+<font color="#ff00ff">(MUSIC PLAYS)</font>
+
+22
+00:01:30,960 --> 00:01:32,460
+<font color="#ff00ff">(BABY CRYING)</font>
+
+23
+00:01:35,340 --> 00:01:38,180
+Sweet, sweet Tommy,
+don't you wanna sleep?
+
+24
+00:01:39,050 --> 00:01:40,510
+Mommy wants to sleep.
+
+25
+00:01:41,180 --> 00:01:45,770
+<font color="#ff00ff">(SIGHS)</font> If you go to sleep,
+I promise you will be my favorite twin.
+
+26
+00:01:45,850 --> 00:01:47,440
+Oh, come on now, darling.
+
+27
+00:01:47,520 --> 00:01:48,980
+You know we love them both equally.
+
+28
+00:01:49,060 --> 00:01:51,610
+Well, don't tell him that.
+<font color="#ff00ff">(VISION CHUCKLES)</font>
+
+29
+00:01:51,690 --> 00:01:52,730
+No luck with Billy?
+
+30
+00:01:52,820 --> 00:01:54,530
+Tried reading to him,
+but for some reason,
+
+31
+00:01:54,610 --> 00:01:57,530
+Charles Darwin's <i>The Descent of Man</i>
+made him cry even harder.
+
+32
+00:01:57,610 --> 00:02:00,570
+Oh. Care to dance, darling?
+
+33
+00:02:01,320 --> 00:02:03,740
+<font color="#138ce9">WANDA:</font> Oh! <font color="#ff00ff">(CHUCKLES)</font>
+<font color="#138ce9">VISION:</font> Mm...
+
+34
+00:02:03,830 --> 00:02:06,000
+- It's almost like we're on a date.
+- Mm!
+
+35
+00:02:06,080 --> 00:02:08,210
+Keep it down, lads,
+I was about to get my leg over.
+
+36
+00:02:08,290 --> 00:02:09,290
+<font color="#ff00ff">(WANDA CHUCKLES)</font>
+
+37
+00:02:10,130 --> 00:02:11,130
+- Vis?
+- Hmm.
+
+38
+00:02:11,210 --> 00:02:12,790
+Would you mind grabbing their binkies?
+
+39
+00:02:12,880 --> 00:02:15,670
+<i>Oh. 'Course not.
+Binkies all round, I think.</i>
+
+40
+00:02:18,590 --> 00:02:20,260
+<font color="#ff00ff">(BABIES CRYING)</font>
+
+41
+00:02:21,340 --> 00:02:23,850
+Now, I know parents
+aren't supposed to take shortcuts,
+
+42
+00:02:23,930 --> 00:02:27,140
+but I think this situation
+calls for one, don't you?
+
+43
+00:02:27,230 --> 00:02:29,350
+<font color="#ff00ff">(BOTH CONTINUE CRYING)</font>
+
+44
+00:02:29,440 --> 00:02:31,810
+So, go to sleep, my babies.
+
+45
+00:02:32,310 --> 00:02:34,020
+<font color="#ff00ff">(GRUNTS SOFTLY)</font>
+<font color="#ff00ff">(WHOOSHES)</font>
+
+46
+00:02:34,110 --> 00:02:36,070
+<font color="#ff00ff">(BOTH CONTINUE CRYING)</font>
+
+47
+00:02:36,150 --> 00:02:39,030
+And go to sleep.
+
+48
+00:02:39,110 --> 00:02:40,110
+<font color="#ff00ff">(WHOOSHES)</font>
+
+49
+00:02:40,200 --> 00:02:41,440
+<font color="#ff00ff">(WANDA SIGHS)</font>
+<font color="#ff00ff">(BABIES GIGGLING)</font>
+
+50
+00:02:41,450 --> 00:02:43,580
+Well, I don't think it's very funny.
+
+51
+00:02:43,660 --> 00:02:45,040
+Why won't you do what I want?
+
+52
+00:02:45,120 --> 00:02:46,330
+<font color="#138ce9">VISION:</font> What's that, dear?
+
+53
+00:02:46,410 --> 00:02:48,790
+<font color="#ff00ff">(BABIES RESUME CRYING)</font>
+<font color="#ff00ff">(WANDA CHUCKLES)</font>
+
+54
+00:02:48,870 --> 00:02:51,290
+That is not where those go!
+
+55
+00:02:51,370 --> 00:02:53,670
+Noise cancelation
+is not their primary function?
+
+56
+00:02:54,920 --> 00:02:56,000
+<font color="#ff00ff">(WANDA SIGHS)</font>
+
+57
+00:02:56,090 --> 00:02:57,710
+<font color="#ff00ff">(CRYING STOPS)</font>
+<font color="#ff00ff">(WANDA SIGHS)</font>
+
+58
+00:02:57,800 --> 00:03:00,590
+<font color="#138ce9">VISION:</font> Ooh.
+<font color="#ff00ff">(WHISPERS)</font> Look, I think it's...
+
+59
+00:03:00,680 --> 00:03:02,140
+<font color="#ff00ff">(BOTH GASP)</font>
+
+60
+00:03:02,220 --> 00:03:03,930
+<font color="#ff00ff">(BABIES CRYING)</font>
+
+61
+00:03:04,010 --> 00:03:05,430
+- Vis?
+- Mm.
+
+62
+00:03:06,100 --> 00:03:07,350
+What are we doing wrong?
+
+63
+00:03:07,430 --> 00:03:10,600
+Oh, don't worry, dear. <font color="#ff00ff">(KISSES)</font>
+We'll figure it out.
+
+64
+00:03:10,690 --> 00:03:13,690
+Perhaps we all need more time
+to get to know one another.
+
+65
+00:03:13,770 --> 00:03:16,610
+Maybe. Or maybe we just need some help.
+
+66
+00:03:16,690 --> 00:03:17,930
+<font color="#ff00ff">(DOORBELL RINGS)</font>
+<font color="#138ce9">VISION:</font> Oh!
+
+67
+00:03:17,980 --> 00:03:19,070
+Hiya, kids!
+
+68
+00:03:19,150 --> 00:03:20,860
+<font color="#138ce9">WANDA:</font> Oh, Agnes!
+
+69
+00:03:20,950 --> 00:03:24,780
+<i>Agnes, I was just fluffing this pillow.
+With my face.</i>
+
+70
+00:03:24,870 --> 00:03:27,240
+Oh, I was just on my way to Jazzercise
+
+71
+00:03:27,330 --> 00:03:30,790
+when I heard your new little
+bundles of joy were on a sleep strike.
+
+72
+00:03:30,870 --> 00:03:33,710
+Oh? Who told you that?
+Uh, my ears.
+
+73
+00:03:33,790 --> 00:03:36,170
+<font color="#ff00ff">(AGNES CHUCKLES)</font>
+Oh. <font color="#ff00ff">(CHUCKLES)</font>
+
+74
+00:03:36,250 --> 00:03:38,210
+Anyway, Auntie Agnes is here
+
+75
+00:03:38,300 --> 00:03:40,420
+and I've got a couple of tricks
+up my sleeve.
+
+76
+00:03:40,510 --> 00:03:43,260
+Oh, Agnes, you're a lifesaver.
+<font color="#138ce9">AGNES:</font> Aw.
+
+77
+00:03:43,340 --> 00:03:45,760
+<i>Very well.
+But be careful of their belly buttons</i>
+
+78
+00:03:45,850 --> 00:03:47,310
+and remember
+to support their heads,
+
+79
+00:03:47,390 --> 00:03:49,100
+and when was the last time you washed...
+
+80
+00:03:49,180 --> 00:03:52,230
+<i>Actually, you know what? It would be...
+Just... Maybe we better not.</i>
+
+81
+00:03:52,310 --> 00:03:53,730
+<font color="#ff00ff">(BABIES CONTINUE CRYING)</font>
+
+82
+00:03:55,520 --> 00:03:56,520
+Um...
+
+83
+00:03:57,900 --> 00:03:58,900
+Uh...
+
+84
+00:03:59,650 --> 00:04:01,360
+Do you want me to take that again?
+
+85
+00:04:06,030 --> 00:04:07,030
+Uh...
+
+86
+00:04:07,990 --> 00:04:08,990
+I'm sorry?
+
+87
+00:04:09,080 --> 00:04:11,040
+You want me to hold the babies.
+
+88
+00:04:12,290 --> 00:04:14,210
+Should we just take it from the top?
+
+89
+00:04:16,750 --> 00:04:18,090
+<font color="#ff00ff">(CHUCKLES AWKWARDLY)</font> What?
+
+90
+00:04:18,840 --> 00:04:21,840
+<font color="#ff00ff">(CHUCKLING DRYLY)</font> Oh, don't be silly.
+
+91
+00:04:23,130 --> 00:04:26,050
+<i>Vision, let's...
+Let's let Agnes give it a try.</i>
+
+92
+00:04:26,720 --> 00:04:28,140
+<font color="#ff00ff">(CHUCKLING NERVOUSLY)</font>
+
+93
+00:04:29,850 --> 00:04:31,770
+<font color="#ff00ff">(LAUGHING)</font>
+
+94
+00:04:33,730 --> 00:04:38,320
+Fussy babies, meet buns of steel.
+
+95
+00:04:38,400 --> 00:04:41,320
+We dare you to stay awake.
+<font color="#ff00ff">(BOTH CHUCKLE)</font>
+
+96
+00:04:44,110 --> 00:04:45,570
+Wanda.
+
+97
+00:04:48,030 --> 00:04:50,120
+<font color="#ff00ff">(SOFTLY)</font> What was that about?
+
+98
+00:04:50,200 --> 00:04:51,500
+What was what?
+
+99
+00:04:51,580 --> 00:04:54,460
+<i>"What was what?"
+That, that with Agnes just now.</i>
+
+100
+00:04:55,420 --> 00:04:57,630
+Well, I think she just got confused
+for a moment.
+
+101
+00:04:57,710 --> 00:04:58,880
+She seems fine now.
+
+102
+00:04:59,540 --> 00:05:01,590
+But what she said,
+the way she looked at you...
+
+103
+00:05:01,670 --> 00:05:02,880
+How did she look at me?
+
+104
+00:05:02,960 --> 00:05:04,130
+Well, I didn't... Oh.
+
+105
+00:05:04,220 --> 00:05:07,760
+<i>Lavender. It's supposed to have
+a calming effect.</i>
+
+106
+00:05:07,840 --> 00:05:09,680
+Ralph sprays it on me every night.
+
+107
+00:05:09,760 --> 00:05:12,520
+But there's no taming this tiger. What?
+
+108
+00:05:12,600 --> 00:05:13,980
+<font color="#ff00ff">(CHUCKLES)</font>
+
+109
+00:05:14,060 --> 00:05:15,060
+It's so strange.
+
+110
+00:05:15,140 --> 00:05:16,220
+<font color="#ff00ff">(WHISPERS)</font> That's not fair.
+
+111
+00:05:16,270 --> 00:05:19,610
+It's not Agnes's fault
+that she has an unusually high libido.
+
+112
+00:05:19,690 --> 00:05:20,770
+Wanda?
+
+113
+00:05:21,780 --> 00:05:23,650
+Did you really not see what I saw?
+
+114
+00:05:23,740 --> 00:05:24,780
+<font color="#ff00ff">(THUD)</font>
+<font color="#138ce9">AGNES:</font> Oh.
+
+115
+00:05:24,860 --> 00:05:27,490
+<i>Don't mind me.
+I'm just looking for your dark liquor.</i>
+
+116
+00:05:27,570 --> 00:05:29,700
+- What?
+- Not for me.
+
+117
+00:05:29,780 --> 00:05:32,660
+<i>For the twins.
+What kind of babysitter do you think I am?</i>
+
+118
+00:05:33,660 --> 00:05:35,660
+I'm just gonna go and check in there.
+
+119
+00:05:36,620 --> 00:05:39,040
+<font color="#138ce9">WANDA:</font> Vision,
+the boys haven't slept in days.
+
+120
+00:05:39,130 --> 00:05:43,920
+You and I both need a break and Agnes
+is just being neighborly, that's all.
+
+121
+00:05:44,010 --> 00:05:45,340
+<font color="#ff00ff">(CRYING STOPS)</font>
+
+122
+00:05:47,050 --> 00:05:48,050
+Do you hear that?
+
+123
+00:05:48,140 --> 00:05:49,180
+Hear what?
+
+124
+00:05:49,260 --> 00:05:51,810
+Absolutely nothing.
+<font color="#ff00ff">(WANDA GASPS)</font>
+
+125
+00:05:51,890 --> 00:05:53,640
+They finally fell asleep.
+
+126
+00:05:54,470 --> 00:05:55,600
+<font color="#138ce9">VISION:</font> They're empty.
+
+127
+00:05:55,680 --> 00:05:57,310
+Then where are the twins?
+
+128
+00:05:57,390 --> 00:05:59,690
+- Mommy?
+- Daddy?
+
+129
+00:05:59,770 --> 00:06:01,610
+<font color="#ff00ff">(WANDA GASPS)</font>
+Huh?
+
+130
+00:06:02,320 --> 00:06:06,530
+<font color="#ff00ff">(SIGHS)</font> Kids. <font color="#ff00ff">(CHUCKLES)</font>
+
+131
+00:06:06,610 --> 00:06:07,610
+You can't control 'em.
+
+132
+00:06:08,990 --> 00:06:10,450
+No matter how hard you try.
+
+133
+00:06:11,070 --> 00:06:12,410
+<font color="#ff00ff">(CHUCKLES SOFTLY)</font>
+
+134
+00:06:17,790 --> 00:06:19,750
+<font color="#138ce9">VISION:</font> Well, hi!
+<font color="#138ce9">WANDA:</font> Hi!
+
+135
+00:06:20,960 --> 00:06:22,420
+<font color="#ff00ff">(WANDA CHUCKLING)</font>
+
+136
+00:06:22,500 --> 00:06:25,050
+<font color="#138ce9">VISION:</font> <i>How are you doing, baby?</i>
+<font color="#138ce9">WANDA:</font> Aw.
+
+137
+00:06:25,130 --> 00:06:26,420
+- Yeah.
+- Yeah.
+
+138
+00:06:27,470 --> 00:06:29,470
+<font color="#ff00ff">(MUSIC PLAYING)</font>
+
+139
+00:06:39,140 --> 00:06:45,280
+<i>You wander the world with a vision
+Of what life could be.</i>
+
+140
+00:06:47,110 --> 00:06:53,280
+<i>But then the years come and teach you
+To just wait and see.</i>
+
+141
+00:06:55,080 --> 00:06:58,790
+<i>Forces may try to pull us apart.</i>
+
+142
+00:06:58,870 --> 00:07:05,130
+<i>But nothing can {\i\i1}phase{\i\i1} me</i>
+<i>If you're in my heart.</i>
+
+143
+00:07:05,210 --> 00:07:08,800
+<i>Crossing our fingers, singing a song.</i>
+
+144
+00:07:08,880 --> 00:07:12,640
+<i>We're making it up as we go along.</i>
+
+145
+00:07:14,720 --> 00:07:16,560
+<i>Through the highs and the lows.</i>
+
+146
+00:07:16,640 --> 00:07:19,020
+<i>We'll be right, we'll be wrong.</i>
+
+147
+00:07:19,100 --> 00:07:23,310
+<i>We're making it up as we go along.</i>
+
+148
+00:07:24,110 --> 00:07:26,480
+<i>And there will be days.</i>
+
+149
+00:07:26,570 --> 00:07:30,900
+<i>We won't know which way to go.</i>
+
+150
+00:07:30,990 --> 00:07:32,780
+<i>But we'll take it higher.</i>
+
+151
+00:07:32,860 --> 00:07:34,660
+<i>You're all I desire.</i>
+
+152
+00:07:34,740 --> 00:07:36,660
+<i>When the going gets tough.</i>
+
+153
+00:07:36,740 --> 00:07:38,700
+<i>When push comes to shove.</i>
+
+154
+00:07:38,790 --> 00:07:41,620
+<i>We're making it up</i>
+
+155
+00:07:41,710 --> 00:07:44,420
+<i>'Cause we got love.</i>
+
+156
+00:07:44,500 --> 00:07:46,170
+<i>We got love.</i>
+
+157
+00:07:46,250 --> 00:07:47,750
+<i>We got love.</i>
+
+158
+00:07:47,840 --> 00:07:49,760
+<i>We got love.</i>
+
+159
+00:07:49,840 --> 00:07:51,800
+<i>Baby, we got...</i>
+
+160
+00:07:51,880 --> 00:07:57,850
+<i>WandaVision.</i>
+
+161
+00:08:01,480 --> 00:08:03,650
+<font color="#138ce9">HAYWARD:</font> <i>What's the first thing
+you do remember?</i>
+
+162
+00:08:05,020 --> 00:08:06,020
+<font color="#138ce9">MONICA:</font> <i>Pain.</i>
+
+163
+00:08:07,110 --> 00:08:11,070
+<i>And then, Wanda's voice in my head.</i>
+
+164
+00:08:11,990 --> 00:08:13,530
+<font color="#138ce9">HAYWARD:</font> <i>Did you try to resist?</i>
+
+165
+00:08:13,610 --> 00:08:16,070
+<font color="#138ce9">MONICA:</font> <i>There was this feeling
+keeping me down.</i>
+
+166
+00:08:16,160 --> 00:08:18,870
+<i>This hopeless feeling.</i>
+
+167
+00:08:20,120 --> 00:08:21,460
+<i>Like drowning.</i>
+
+168
+00:08:22,000 --> 00:08:23,290
+<i>It was grief.</i>
+
+169
+00:08:26,630 --> 00:08:28,000
+<font color="#138ce9">DOCTOR:</font> You can sit up now.
+
+170
+00:08:28,960 --> 00:08:30,130
+Great. <font color="#ff00ff">(SIGHS)</font>
+
+171
+00:08:31,420 --> 00:08:33,050
+So am I cleared?
+
+172
+00:08:33,130 --> 00:08:34,510
+Once I get a look at these.
+
+173
+00:08:36,640 --> 00:08:37,720
+Where's my uniform?
+
+174
+00:08:37,800 --> 00:08:39,310
+In analysis.
+
+175
+00:08:41,560 --> 00:08:43,600
+Mighty glad to have you back, Captain.
+
+176
+00:08:43,690 --> 00:08:44,850
+How you feeling?
+
+177
+00:08:44,940 --> 00:08:46,020
+<font color="#138ce9">MONICA:</font> Like myself.
+
+178
+00:08:46,100 --> 00:08:47,980
+Well, thank heavens for that.
+
+179
+00:08:49,110 --> 00:08:50,820
+Uh, what's the latest?
+
+180
+00:08:50,900 --> 00:08:54,030
+<font color="#ff00ff">(CLEARS THROAT)</font> <i>There's a briefing in ten.
+Pants are encouraged.</i>
+
+181
+00:08:54,110 --> 00:08:55,910
+- Thank you.
+- This is Dr. Darcy Lewis.
+
+182
+00:08:55,990 --> 00:08:57,990
+She's the one
+who discovered the broadcast.
+
+183
+00:08:58,070 --> 00:09:00,740
+- I'm...
+- Monica. I know. Um, big fan.
+
+184
+00:09:00,830 --> 00:09:04,460
+<i>We're gonna need to take these again.
+There's something wrong with the machine.</i>
+
+185
+00:09:04,540 --> 00:09:05,580
+<font color="#138ce9">DARCY:</font> Those are blank.
+
+186
+00:09:05,670 --> 00:09:06,670
+<font color="#138ce9">DOCTOR:</font> Like I said.
+
+187
+00:09:06,750 --> 00:09:07,920
+Well, what about her labs?
+
+188
+00:09:08,000 --> 00:09:09,090
+I need another blood draw.
+
+189
+00:09:09,170 --> 00:09:11,630
+<font color="#ff00ff">(CHUCKLES)</font> No, no, no. We're done here.
+
+190
+00:09:13,800 --> 00:09:16,180
+She does that. See you at the briefing.
+
+191
+00:09:19,390 --> 00:09:20,470
+<font color="#138ce9">HAYWARD:</font> Morning.
+
+192
+00:09:20,560 --> 00:09:23,680
+We are now assessing a more clear picture
+of this crisis.
+
+193
+00:09:23,770 --> 00:09:25,640
+And thanks to Captain Rambeau,
+
+194
+00:09:25,730 --> 00:09:30,320
+we now have first-person intel
+from inside the Westview Anomaly.
+
+195
+00:09:30,400 --> 00:09:34,110
+Our initial theory had
+Wanda Maximoff as one of many victims.
+
+196
+00:09:34,190 --> 00:09:37,070
+We now know
+she is the principal victimizer.
+
+197
+00:09:37,820 --> 00:09:39,030
+Jimmy.
+
+198
+00:09:40,030 --> 00:09:41,580
+<font color="#138ce9">WOO:</font> Quick history on our subject.
+
+199
+00:09:41,660 --> 00:09:46,160
+Born in Sokovia in 1989
+to Irina and Oleg Maximoff,
+
+200
+00:09:46,250 --> 00:09:47,870
+both killed during an air raid
+
+201
+00:09:47,960 --> 00:09:50,840
+when Maximoff
+and her twin brother, Pietro, were ten.
+
+202
+00:09:50,920 --> 00:09:54,380
+<font color="#138ce9">HAYWARD:</font> The twins were subsequently
+radicalized, volunteering at HYDRA.
+
+203
+00:09:54,460 --> 00:09:57,800
+It's an oversimplification
+of events, but, yes.
+
+204
+00:09:57,880 --> 00:10:01,350
+After unspecified experimentation
+with the Mind Stone,
+
+205
+00:10:01,430 --> 00:10:05,390
+Maximoff gained
+telekinetic and telepathic abilities.
+
+206
+00:10:05,480 --> 00:10:08,600
+<i>Back up, Jimmy.
+Does Maximoff have an alias?</i>
+
+207
+00:10:09,650 --> 00:10:11,610
+- No, sir.
+- No funny nickname?
+
+208
+00:10:11,690 --> 00:10:12,940
+Not a one.
+
+209
+00:10:13,020 --> 00:10:16,070
+And earliest tracking had her using
+her powers against the Avengers.
+
+210
+00:10:16,150 --> 00:10:17,150
+Is that correct?
+
+211
+00:10:17,240 --> 00:10:20,410
+Right before she earned their trust
+and became one herself.
+
+212
+00:10:21,240 --> 00:10:24,950
+<font color="#138ce9">HAYWARD:</font> Lagos and Germany,
+we all know how that turned out.
+
+213
+00:10:25,750 --> 00:10:26,870
+Thanks, Jimmy.
+
+214
+00:10:29,540 --> 00:10:32,460
+Now that we have the lay of the land,
+let's talk about strategy.
+
+215
+00:10:32,540 --> 00:10:33,550
+It is the policy...
+
+216
+00:10:33,630 --> 00:10:35,350
+<font color="#ff00ff">(SOFTLY)</font> I try
+not to speak ill of people...
+
+217
+00:10:35,380 --> 00:10:36,880
+Then allow me. Hayward's a...
+
+218
+00:10:36,970 --> 00:10:38,050
+...terrorists.
+
+219
+00:10:38,130 --> 00:10:40,090
+Wanda's not a terrorist.
+
+220
+00:10:40,180 --> 00:10:42,470
+<font color="#138ce9">HAYWARD:</font> By your own account,
+you described the experience
+
+221
+00:10:42,550 --> 00:10:45,600
+of being under her mind-control as
+
+222
+00:10:45,680 --> 00:10:48,810
+"excruciating, terrifying, a violation."
+
+223
+00:10:50,310 --> 00:10:52,560
+<font color="#138ce9">GERALDINE:</font> <i>Wanda, what's up?</i>
+
+224
+00:10:54,150 --> 00:10:56,230
+<i>And now that I've gone all corporate...</i>
+
+225
+00:10:56,320 --> 00:10:59,650
+My point is, I don't believe
+she has a political agenda
+
+226
+00:10:59,740 --> 00:11:01,620
+or any inclination toward destruction.
+
+227
+00:11:01,700 --> 00:11:03,870
+Monica, she blasted you
+halfway across New Jersey.
+
+228
+00:11:03,950 --> 00:11:06,120
+And I survived
+because she chose to protect me.
+
+229
+00:11:06,200 --> 00:11:08,870
+She's holding thousands of people hostage.
+
+230
+00:11:08,960 --> 00:11:12,500
+And it could have been thousands more
+if she hadn't put up her own quarantine.
+
+231
+00:11:13,380 --> 00:11:17,260
+Listen, I don't believe
+this is a premeditated act of aggression.
+
+232
+00:11:17,340 --> 00:11:18,590
+<font color="#138ce9">HAYWARD:</font> You don't?
+
+233
+00:11:19,720 --> 00:11:20,930
+Bring up the visual.
+
+234
+00:11:23,180 --> 00:11:25,430
+This morning,
+I received authorization to share
+
+235
+00:11:25,510 --> 00:11:28,430
+this highly-sensitive material
+from S.W.O.R.D. headquarters.
+
+236
+00:11:28,520 --> 00:11:33,360
+Until very recently, it was the top-secret
+location of the Vision's corpse.
+
+237
+00:11:36,110 --> 00:11:37,400
+<font color="#ff00ff">(GLASS SHATTERS)</font>
+
+238
+00:11:46,830 --> 00:11:48,540
+When was this?
+<font color="#138ce9">HAYWARD:</font> Nine days ago.
+
+239
+00:11:48,620 --> 00:11:52,000
+Maximoff stormed our facility,
+stole the Vision's body,
+
+240
+00:11:52,080 --> 00:11:53,920
+and resurrected him.
+
+241
+00:11:54,000 --> 00:11:57,800
+But that's in direct violation
+of Section 36 B of the Sokovia Accords.
+
+242
+00:11:57,880 --> 00:11:59,840
+And the Vision's own living will.
+
+243
+00:12:00,630 --> 00:12:02,260
+He didn't want to be anybody's weapon.
+
+244
+00:12:02,340 --> 00:12:05,720
+Maximoff, in her grief,
+disregarded his wishes.
+
+245
+00:12:06,760 --> 00:12:08,430
+All right, that's it for now.
+
+246
+00:12:08,520 --> 00:12:11,520
+Let's work the problem, people. Dismissed.
+
+247
+00:12:12,310 --> 00:12:13,730
+<font color="#ff00ff">(INDISTINCT CHATTER)</font>
+
+248
+00:12:15,310 --> 00:12:16,940
+But how did she even do it?
+
+249
+00:12:17,020 --> 00:12:18,780
+Bring him back without the Mind Stone?
+
+250
+00:12:18,860 --> 00:12:20,070
+Who knows?
+
+251
+00:12:20,150 --> 00:12:22,740
+But she has the world's
+only vibranium synthezoid,
+
+252
+00:12:22,820 --> 00:12:24,870
+playing Father-Knows-Best-In-Suburbia.
+
+253
+00:12:25,910 --> 00:12:27,780
+What happens when he learns the truth?
+
+254
+00:12:34,750 --> 00:12:36,380
+<font color="#ff00ff">(MUSIC PLAYS)</font>
+
+255
+00:12:36,460 --> 00:12:38,130
+<font color="#138ce9">BILLY:</font> I don't think he likes the water.
+
+256
+00:12:38,210 --> 00:12:41,420
+But we have to get him clean,
+so Mommy will let us keep him.
+
+257
+00:12:41,510 --> 00:12:43,760
+<font color="#138ce9">WANDA:</font> Tommy, Billy!
+Oh, no! Mommy's coming!
+
+258
+00:12:45,140 --> 00:12:47,350
+You know, I don't miss the crying,
+
+259
+00:12:47,430 --> 00:12:50,180
+but jeez Louise,
+did you have to learn to walk?
+
+260
+00:12:50,270 --> 00:12:52,140
+You two never stay put.
+
+261
+00:12:55,060 --> 00:12:59,820
+Unless you're innocently forming
+a human wall in front of the kitchen sink.
+
+262
+00:13:00,650 --> 00:13:01,990
+<font color="#ff00ff">(SNEEZE)</font>
+Bless you.
+
+263
+00:13:02,070 --> 00:13:03,860
+<font color="#138ce9">BOTH:</font> Thank you.
+<font color="#ff00ff">(SOFT BARK)</font>
+
+264
+00:13:04,650 --> 00:13:06,740
+Now tell me which one of you just barked?
+
+265
+00:13:07,490 --> 00:13:08,910
+Scoot.
+
+266
+00:13:10,160 --> 00:13:12,750
+<font color="#ff00ff">(GASPS)</font> Oh, boy.
+
+267
+00:13:12,830 --> 00:13:15,420
+Waiter, what's this canine
+doing in my kitchen sink?
+
+268
+00:13:15,500 --> 00:13:17,080
+The doggy paddle?
+
+269
+00:13:17,170 --> 00:13:18,670
+Can we keep him, Mommy?
+
+270
+00:13:20,000 --> 00:13:23,340
+<font color="#138ce9">WANDA:</font> Well, I'm sure
+his owners miss him very much.
+
+271
+00:13:23,420 --> 00:13:24,470
+Come on.
+
+272
+00:13:25,010 --> 00:13:27,760
+Huh. There really is no collar.
+
+273
+00:13:27,840 --> 00:13:29,430
+<font color="#138ce9">TOMMY:</font> Can we keep him?
+
+274
+00:13:29,510 --> 00:13:33,640
+He was outside. Crying, alone.
+
+275
+00:13:33,730 --> 00:13:38,980
+Now, boys, taking care
+of a living thing is a big responsibility.
+
+276
+00:13:39,060 --> 00:13:43,610
+Dogs need food, exercise, training,
+
+277
+00:13:43,690 --> 00:13:46,070
+belly rubs, and cuddles.
+
+278
+00:13:46,150 --> 00:13:48,910
+And kisses between his little ears.
+
+279
+00:13:48,990 --> 00:13:50,870
+Morning, wife. Morning, boys.
+
+280
+00:13:50,950 --> 00:13:54,290
+Good morning, unfamiliar wet animal.
+<font color="#ff00ff">(WANDA CHUCKLES)</font>
+
+281
+00:13:54,370 --> 00:13:55,410
+Who's this?
+
+282
+00:13:55,500 --> 00:13:58,080
+We're not quite sure, actually.
+
+283
+00:13:58,170 --> 00:13:59,960
+Why so formal, honey?
+
+284
+00:14:00,040 --> 00:14:03,920
+<i>Oh, it's just a precaution really.
+I had a hunch someone might pop over.</i>
+
+285
+00:14:04,010 --> 00:14:06,090
+<font color="#ff00ff">(DOOR OPENS)</font>
+Hi, kiddos.
+
+286
+00:14:06,170 --> 00:14:10,100
+With exactly the item we require.
+<font color="#ff00ff">(DOOR CLOSES)</font>
+
+287
+00:14:10,180 --> 00:14:13,640
+My kitchen window told me
+someone got a new pooch.
+
+288
+00:14:15,020 --> 00:14:16,770
+<font color="#ff00ff">(DOG BARKING)</font>
+Did you name him yet?
+
+289
+00:14:16,850 --> 00:14:18,900
+<font color="#ff00ff">(DOG SNIFFING)</font>
+How about Sniffy?
+
+290
+00:14:18,980 --> 00:14:20,190
+Oh! <font color="#ff00ff">(CHUCKLES)</font>
+
+291
+00:14:20,270 --> 00:14:22,110
+<font color="#ff00ff">(ELECTRICITY CRACKLES)</font>
+<font color="#ff00ff">(DOG YELPS)</font>
+
+292
+00:14:22,730 --> 00:14:23,980
+How about Sparky?
+
+293
+00:14:24,070 --> 00:14:27,200
+<font color="#ff00ff">(CHUCKLES)</font>
+Well, should we make it official?
+
+294
+00:14:29,320 --> 00:14:31,660
+- Wanda.
+- Hmm?
+
+295
+00:14:31,740 --> 00:14:34,330
+<font color="#ff00ff">(SOFTLY)</font> Agnes was right there!
+She didn't notice.
+
+296
+00:14:34,410 --> 00:14:37,460
+She didn't even notice when the boys
+went from babies to five-year-olds.
+
+297
+00:14:37,540 --> 00:14:38,830
+That's not what we agreed upon.
+
+298
+00:14:38,920 --> 00:14:41,080
+You made no effort
+to conceal your abilities.
+
+299
+00:14:41,170 --> 00:14:43,170
+Well, I'm tired of hiding, Vis.
+
+300
+00:14:44,670 --> 00:14:46,970
+And maybe you don't have to either.
+
+301
+00:14:47,760 --> 00:14:50,840
+Wanda, we are usually
+so much of the same mind.
+
+302
+00:14:51,510 --> 00:14:52,760
+But right now...
+
+303
+00:14:55,680 --> 00:14:57,310
+What aren't you telling me?
+
+304
+00:14:58,140 --> 00:15:00,480
+So, is Sparky our dog, Daddy?
+
+305
+00:15:00,560 --> 00:15:01,770
+<font color="#138ce9">VISION:</font> What?
+
+306
+00:15:01,860 --> 00:15:03,230
+<font color="#ff00ff">(SPARKY WHIMPERING)</font>
+
+307
+00:15:03,320 --> 00:15:04,820
+<font color="#ff00ff">(VISION SIGHS, GRUNTS SOFTLY)</font>
+
+308
+00:15:04,900 --> 00:15:09,200
+Boys, your father and I
+don't think you're ready
+
+309
+00:15:09,280 --> 00:15:13,120
+to properly care for an animal
+until you're at least...
+
+310
+00:15:13,200 --> 00:15:14,700
+Ten. <font color="#ff00ff">(COUGHS)</font> Ten.
+
+311
+00:15:15,660 --> 00:15:16,700
+Ten years old.
+
+312
+00:15:19,580 --> 00:15:22,460
+- Wait, now, hang on there a minute...
+- Wait, no, no, no.
+
+313
+00:15:22,540 --> 00:15:26,210
+...you young whippersnappers.
+<font color="#138ce9">WANDA:</font> No, no, no! <font color="#ff00ff">(GASPS)</font>
+
+314
+00:15:26,300 --> 00:15:29,380
+Let's just hope this dog
+stays the same size. <font color="#ff00ff">(CHUCKLES)</font>
+
+315
+00:15:31,300 --> 00:15:32,470
+Woof, woof.
+
+316
+00:15:36,720 --> 00:15:37,810
+<font color="#ff00ff">(INDISTINCT CHATTER)</font>
+
+317
+00:15:40,600 --> 00:15:43,230
+Okay. Okay, I've got it.
+
+318
+00:15:43,310 --> 00:15:46,230
+What I need
+is a 10,000-pound fallout shelter
+
+319
+00:15:46,320 --> 00:15:49,490
+comprised of lead for photons,
+cadmium for neutrons,
+
+320
+00:15:49,570 --> 00:15:52,490
+tantalum for seismic blasts, on wheels.
+
+321
+00:15:54,240 --> 00:15:58,750
+And then, I would be able
+to safely re-enter Westview. Right?
+
+322
+00:15:58,830 --> 00:16:00,620
+Yes. Theoretically.
+
+323
+00:16:00,710 --> 00:16:02,620
+I can work with theoretically.
+
+324
+00:16:04,000 --> 00:16:05,130
+What'd I miss?
+
+325
+00:16:05,210 --> 00:16:06,590
+The twins aged up to ten.
+
+326
+00:16:06,670 --> 00:16:10,170
+<i>Holy Christmas. At this rate,
+they'll be empty nesters by dinner time.</i>
+
+327
+00:16:10,260 --> 00:16:13,220
+I know an aerospace engineer
+who'd be up for this challenge.
+
+328
+00:16:16,350 --> 00:16:20,390
+But I can't guarantee the Hex
+won't just mind-wipe you as you go in.
+
+329
+00:16:20,480 --> 00:16:22,270
+Wait. What's a Hex?
+
+330
+00:16:22,350 --> 00:16:26,730
+Oh, um, it's what I'm calling the anomaly
+because of its hexagonal shape.
+
+331
+00:16:26,820 --> 00:16:28,570
+It's starting to catch on.
+
+332
+00:16:30,530 --> 00:16:32,240
+You really wanna go back in there?
+
+333
+00:16:32,320 --> 00:16:34,280
+After everything she's put you through?
+
+334
+00:16:35,070 --> 00:16:37,160
+Yeah. Yes, I do.
+
+335
+00:16:38,450 --> 00:16:40,580
+Have we identified these minors yet?
+
+336
+00:16:40,660 --> 00:16:42,160
+Or the newborns?
+
+337
+00:16:42,250 --> 00:16:44,210
+<font color="#138ce9">MONICA:</font> Oh, Wanda's twins are hers.
+
+338
+00:16:44,290 --> 00:16:48,170
+Everything might look fake in the TV,
+but everything in there is real.
+
+339
+00:16:48,250 --> 00:16:50,550
+But Wanda manipulates
+people's perceptions,
+
+340
+00:16:50,630 --> 00:16:51,720
+makes them hallucinate.
+
+341
+00:16:51,800 --> 00:16:53,160
+<font color="#138ce9">DARCY:</font> Yeah, that's her whole bag.
+
+342
+00:16:53,180 --> 00:16:55,760
+If all the sets and props
+and wardrobe were solid matter,
+
+343
+00:16:55,840 --> 00:16:58,350
+that would mean
+she's wielding an insane amount of power.
+
+344
+00:16:58,430 --> 00:17:00,680
+Far exceeding anything
+she's displayed in the past.
+
+345
+00:17:00,770 --> 00:17:04,690
+Uh, she could have taken out Thanos
+on her own if he hadn't initiated a blitz.
+
+346
+00:17:04,770 --> 00:17:06,770
+I mean, nobody else came close.
+
+347
+00:17:06,860 --> 00:17:09,320
+Well, I'd argue
+that Captain Marvel came close.
+
+348
+00:17:10,190 --> 00:17:12,820
+Her powers came from
+an Infinity Stone, too, right?
+
+349
+00:17:12,900 --> 00:17:14,360
+We are not talking about her.
+
+350
+00:17:14,450 --> 00:17:17,070
+We are talking about Wanda.
+
+351
+00:17:19,490 --> 00:17:20,700
+Darcy?
+
+352
+00:17:21,500 --> 00:17:24,750
+What was that you were saying
+about props and sets and...
+
+353
+00:17:24,830 --> 00:17:26,370
+Wardrobe?
+
+354
+00:17:29,630 --> 00:17:30,630
+Where's the lab?
+
+355
+00:17:40,010 --> 00:17:41,560
+<font color="#138ce9">WOO:</font> What are we looking for?
+
+356
+00:17:41,640 --> 00:17:42,720
+<font color="#138ce9">MONICA:</font> That.
+
+357
+00:17:44,390 --> 00:17:47,940
+Oh, man, are we being mind-controlled
+to see that right now?
+
+358
+00:17:48,020 --> 00:17:49,020
+Jeepers creepers!
+
+359
+00:17:50,730 --> 00:17:53,490
+<font color="#138ce9">MONICA:</font> Ooh, no. They're real, all right.
+
+360
+00:17:53,570 --> 00:17:54,780
+Can I borrow this?
+
+361
+00:17:54,860 --> 00:17:56,320
+Whoa. Whoa, whoa, whoa, whoa.
+
+362
+00:18:00,120 --> 00:18:01,740
+<font color="#138ce9">DARCY:</font> <font color="#ff00ff">(GASPS)</font> Whoa!
+
+363
+00:18:08,460 --> 00:18:11,340
+You had a bulletproof vest on
+when you went inside, didn't you?
+
+364
+00:18:11,420 --> 00:18:14,550
+Those pants are 87% Kevlar.
+
+365
+00:18:16,220 --> 00:18:20,100
+<i>It's not an illusion.
+Wanda is rewriting reality.</i>
+
+366
+00:18:20,180 --> 00:18:21,220
+Permanently?
+
+367
+00:18:21,300 --> 00:18:24,350
+If she can change things
+as they go into the Hex...
+
+368
+00:18:24,430 --> 00:18:25,980
+Ah, you called it the Hex.
+
+369
+00:18:27,810 --> 00:18:31,730
+What happens if we send something in
+that requires no change?
+
+370
+00:18:35,740 --> 00:18:37,570
+<font color="#ff00ff">(MUSIC PLAYS)</font>
+
+371
+00:18:38,740 --> 00:18:40,120
+<font color="#ff00ff">(INDISTINCT CHATTER)</font>
+
+372
+00:18:44,200 --> 00:18:48,170
+So you're telling me this is a typewriter,
+a Rolodex, and a calendar all in one?
+
+373
+00:18:48,250 --> 00:18:50,040
+What else can it do? Find me a wife?
+
+374
+00:18:50,130 --> 00:18:51,130
+Eventually, yes.
+
+375
+00:18:51,210 --> 00:18:54,460
+<font color="#ff00ff">(CHUCKLES)</font> It's a hell of a thing
+watching you work these computers, Vision.
+
+376
+00:18:54,550 --> 00:18:56,470
+It's like you speak their language.
+
+377
+00:18:56,550 --> 00:18:57,800
+What do you think, Norm?
+
+378
+00:18:57,880 --> 00:18:59,300
+Should we surf the Internet?
+
+379
+00:18:59,380 --> 00:19:01,010
+Cowabunga, dude.
+
+380
+00:19:03,390 --> 00:19:05,180
+<font color="#ff00ff">(BEEPING AND TRILLING)</font>
+
+381
+00:19:08,600 --> 00:19:11,400
+Hey, look, we got electronic mail already.
+
+382
+00:19:11,480 --> 00:19:14,730
+<i>It's called an e-mail, Norm.
+What are you looking for?</i>
+
+383
+00:19:14,820 --> 00:19:15,860
+Letter opener.
+
+384
+00:19:15,940 --> 00:19:18,610
+<i>Ah, we don't need that.
+We're already cutting edge.</i>
+
+385
+00:19:21,450 --> 00:19:24,910
+<font color="#138ce9">PEOPLE:</font> "S.W.O.R.D.
+<i>Top secret communiqué. Authenticate."</i>
+
+386
+00:19:24,990 --> 00:19:28,710
+"Doctor Darcy Lewis'
+findings regarding Maximoff's Anomaly."
+
+387
+00:19:28,790 --> 00:19:31,960
+"High levels of radiation
+present at perimeter."
+
+388
+00:19:32,040 --> 00:19:34,420
+"Effect on Westview residents unknown."
+
+389
+00:19:34,500 --> 00:19:36,090
+"Please advise."
+
+390
+00:19:36,170 --> 00:19:37,920
+<font color="#ff00ff">(PEOPLE LAUGHING)</font>
+
+391
+00:19:39,760 --> 00:19:41,970
+<font color="#138ce9">NORM:</font> <i>Well, come on, pal.
+What are we gonna write back?</i>
+
+392
+00:19:42,050 --> 00:19:43,640
+You're the office funny guy.
+
+393
+00:19:46,260 --> 00:19:47,430
+It's a joke.
+
+394
+00:19:47,520 --> 00:19:49,180
+Can't you tell?
+
+395
+00:19:49,940 --> 00:19:51,100
+None of it is real.
+
+396
+00:19:56,900 --> 00:19:57,900
+<font color="#ff00ff">(GRUNTS)</font>
+
+397
+00:19:57,980 --> 00:19:59,530
+<font color="#ff00ff">(GASPING)</font>
+
+398
+00:19:59,610 --> 00:20:02,360
+Please. Please help me.
+
+399
+00:20:02,450 --> 00:20:04,830
+What day is it? How long has it been?
+
+400
+00:20:04,910 --> 00:20:07,290
+<i>Where's my phone?
+I have to call my sister.</i>
+
+401
+00:20:07,370 --> 00:20:09,450
+- Norm.
+- She's taking care of our dad, he's sick.
+
+402
+00:20:09,540 --> 00:20:11,420
+- Where is my phone?
+- Calm yourself, Norm.
+
+403
+00:20:11,500 --> 00:20:13,630
+I can't understand
+what you're trying to tell me.
+
+404
+00:20:13,710 --> 00:20:15,500
+- You have to stop her.
+- Stop who?
+
+405
+00:20:15,590 --> 00:20:16,840
+She's in my head.
+
+406
+00:20:16,920 --> 00:20:19,130
+None of it is my own.
+
+407
+00:20:19,210 --> 00:20:22,130
+It hurts. It hurts so much.
+
+408
+00:20:22,220 --> 00:20:23,640
+Just make her stop.
+
+409
+00:20:23,720 --> 00:20:25,390
+<font color="#ff00ff">(YELLS)</font> Just make her stop...
+
+410
+00:20:26,720 --> 00:20:27,970
+<font color="#ff00ff">(GRUNTS)</font>
+
+411
+00:20:28,060 --> 00:20:29,470
+<font color="#ff00ff">(CHEERILY)</font> Now tell me this.
+
+412
+00:20:29,560 --> 00:20:32,850
+If I send an e-mail,
+where would I put the stamp?
+
+413
+00:20:36,570 --> 00:20:38,730
+Technology. Ah.
+
+414
+00:20:42,150 --> 00:20:44,530
+<font color="#138ce9">BILLY:</font> Sit, Sparky, sit. Good dog.
+
+415
+00:20:44,610 --> 00:20:46,450
+Speak.
+<font color="#ff00ff">(BARKS)</font>
+
+416
+00:20:46,530 --> 00:20:48,620
+Nice, Sparky.
+
+417
+00:20:48,700 --> 00:20:49,830
+Now spin.
+
+418
+00:20:51,040 --> 00:20:52,040
+Good boy!
+
+419
+00:20:52,120 --> 00:20:54,710
+Oh! Bravo, Billy!
+
+420
+00:20:54,790 --> 00:20:57,090
+You weren't so bad either, Sparky.
+
+421
+00:20:57,170 --> 00:20:58,750
+That was radical.
+
+422
+00:20:58,840 --> 00:21:00,300
+<i>Where's Dad?
+We gotta go show Dad!</i>
+
+423
+00:21:00,380 --> 00:21:01,550
+Oh, he's... He's at work.
+
+424
+00:21:03,340 --> 00:21:05,840
+- Huh?
+- It's Saturday.
+
+425
+00:21:05,930 --> 00:21:07,350
+No, it's not. It's Monday.
+
+426
+00:21:07,430 --> 00:21:09,100
+This morning was Saturday.
+
+427
+00:21:10,100 --> 00:21:13,600
+There was an emergency at the office
+and your father had to go in.
+
+428
+00:21:13,690 --> 00:21:14,690
+End of story.
+
+429
+00:21:17,900 --> 00:21:21,940
+Look, he just... He needed a distraction.
+
+430
+00:21:22,030 --> 00:21:24,070
+From what?
+
+431
+00:21:24,150 --> 00:21:25,410
+From us?
+
+432
+00:21:25,490 --> 00:21:29,700
+No! No way! No!
+
+433
+00:21:31,290 --> 00:21:36,500
+Sometimes your dad and I
+aren't on the same page,
+
+434
+00:21:36,580 --> 00:21:40,800
+but that's just temporary.
+
+435
+00:21:40,880 --> 00:21:43,720
+Like the two of you,
+you might fight over toys,
+
+436
+00:21:43,800 --> 00:21:46,130
+but he's always going to be your brother.
+
+437
+00:21:46,220 --> 00:21:48,140
+And he is always going to be yours.
+
+438
+00:21:48,970 --> 00:21:51,350
+Because family is forever.
+
+439
+00:21:52,220 --> 00:21:54,060
+Do you have a brother, Mom?
+
+440
+00:21:55,270 --> 00:21:56,480
+I do.
+
+441
+00:21:57,730 --> 00:22:00,900
+Yeah. He's far away from here.
+
+442
+00:22:00,980 --> 00:22:04,490
+And that makes me sad sometimes.
+
+443
+00:22:05,070 --> 00:22:06,280
+<font color="#ff00ff">(BARKING)</font>
+
+444
+00:22:08,280 --> 00:22:11,080
+<font color="#138ce9">BILLY:</font> Hey, Sparky, what's up, boy?
+<font color="#ff00ff">(SPARKY GROWLING)</font>
+
+445
+00:22:11,160 --> 00:22:12,830
+Something's scaring him.
+
+446
+00:22:13,580 --> 00:22:15,580
+<font color="#ff00ff">(SPARKY GROWLING AND BARKING)</font>
+
+447
+00:22:18,080 --> 00:22:19,500
+Stay here.
+
+448
+00:22:20,750 --> 00:22:21,840
+<font color="#ff00ff">(SPARKY BARKING)</font>
+
+449
+00:22:23,420 --> 00:22:24,590
+<font color="#138ce9">BILLY:</font> Sparky!
+
+450
+00:22:35,310 --> 00:22:39,060
+<font color="#138ce9">HAYWARD:</font> I know this is tech from
+the '80s, but can we sharpen the visuals?
+
+451
+00:22:39,150 --> 00:22:40,400
+<font color="#138ce9">MONICA:</font> Working on it.
+
+452
+00:22:42,770 --> 00:22:44,360
+Maximoff located.
+
+453
+00:22:44,440 --> 00:22:45,530
+Well done.
+
+454
+00:22:45,610 --> 00:22:47,280
+We can't see the drone on the broadcast.
+
+455
+00:22:47,360 --> 00:22:49,110
+Wanda's framing it out of the shot.
+
+456
+00:22:49,200 --> 00:22:50,700
+Just like all the jump cuts.
+
+457
+00:22:50,780 --> 00:22:53,540
+Wanda decides what makes it onto her show
+and what doesn't.
+
+458
+00:22:53,620 --> 00:22:56,250
+And here we go. You're up.
+
+459
+00:22:56,960 --> 00:23:00,330
+Wanda, this is Captain Monica Rambeau.
+
+460
+00:23:00,420 --> 00:23:01,460
+Can you hear me?
+
+461
+00:23:04,840 --> 00:23:06,920
+I just want to talk. That's it.
+
+462
+00:23:09,630 --> 00:23:11,640
+No joy.
+<font color="#138ce9">MONICA:</font> Uh...
+
+463
+00:23:12,390 --> 00:23:15,560
+<i>Wait, my controls aren't working.
+Reconnect patch.</i>
+
+464
+00:23:15,640 --> 00:23:16,930
+Disregard. Take the shot.
+
+465
+00:23:17,020 --> 00:23:19,560
+What? No. The drone isn't armed.
+
+466
+00:23:19,640 --> 00:23:20,900
+Take the shot.
+
+467
+00:23:25,730 --> 00:23:27,400
+What did you do?
+
+468
+00:23:27,490 --> 00:23:28,860
+<font color="#138ce9">AGENT:</font> There's a breach, sir.
+
+469
+00:23:29,490 --> 00:23:30,910
+<font color="#ff00ff">(PANICKED CHATTER)</font>
+
+470
+00:23:35,200 --> 00:23:37,200
+<font color="#ff00ff">(ALARM BLARING)</font>
+
+471
+00:23:38,460 --> 00:23:39,870
+<font color="#ff00ff">(PEOPLE CLAMORING)</font>
+
+472
+00:24:09,820 --> 00:24:11,450
+<font color="#ff00ff">(WEAPON CRACKLING)</font>
+
+473
+00:24:21,500 --> 00:24:22,710
+Is this yours?
+
+474
+00:24:24,790 --> 00:24:26,550
+<font color="#ff00ff">(FIZZING)</font>
+
+475
+00:24:30,720 --> 00:24:33,300
+The missile was just a precaution.
+
+476
+00:24:33,390 --> 00:24:35,720
+You can hardly blame us, Wanda.
+
+477
+00:24:35,800 --> 00:24:37,430
+<font color="#138ce9">WANDA:</font> Oh, I think I can.
+
+478
+00:24:38,310 --> 00:24:41,060
+This will be your only warning.
+
+479
+00:24:42,480 --> 00:24:44,270
+Stay out of my home.
+
+480
+00:24:45,150 --> 00:24:48,610
+You don't bother me. I won't bother you.
+
+481
+00:24:48,690 --> 00:24:50,400
+I wish it could be that simple.
+
+482
+00:24:51,450 --> 00:24:53,360
+You've taken an entire town hostage.
+
+483
+00:24:53,450 --> 00:24:55,990
+Well, I'm not the one
+with the guns, Director.
+
+484
+00:24:56,700 --> 00:24:58,830
+<font color="#138ce9">MONICA:</font> But you are the one in control.
+
+485
+00:25:01,200 --> 00:25:02,710
+You're still here.
+
+486
+00:25:06,170 --> 00:25:10,170
+<font color="#138ce9">MONICA:</font> Wanda, I didn't know
+the drones were armed.
+
+487
+00:25:10,880 --> 00:25:13,090
+But you know that, don't you?
+
+488
+00:25:13,180 --> 00:25:14,930
+A town full of civilians.
+
+489
+00:25:15,010 --> 00:25:18,850
+And you, a telepath,
+brought a S.W.O.R.D. Agent into your home.
+
+490
+00:25:19,510 --> 00:25:22,430
+You trusted me
+to help deliver your babies.
+
+491
+00:25:22,520 --> 00:25:25,810
+On some level, Wanda,
+you know I am an ally.
+
+492
+00:25:26,810 --> 00:25:27,900
+I wanna help you.
+
+493
+00:25:27,980 --> 00:25:32,240
+<i>How? What could you
+possibly have to offer me?</i>
+
+494
+00:25:33,450 --> 00:25:34,700
+What do you want?
+
+495
+00:25:35,530 --> 00:25:36,950
+I have what I want
+
+496
+00:25:38,530 --> 00:25:43,120
+and no one
+will ever take it from me again.
+
+497
+00:25:50,380 --> 00:25:52,460
+<font color="#ff00ff">(GUNS COCKING)</font>
+Whoa, whoa, whoa, whoa!
+
+498
+00:25:52,550 --> 00:25:53,550
+Stand down!
+
+499
+00:25:55,840 --> 00:25:57,180
+- Wanda!
+- Stand down!
+
+500
+00:26:06,270 --> 00:26:07,270
+<font color="#ff00ff">(GASPS)</font>
+
+501
+00:26:21,660 --> 00:26:23,040
+<font color="#ff00ff">(GASPS)</font>
+Oh.
+
+502
+00:26:24,000 --> 00:26:25,460
+<font color="#138ce9">WOMAN:</font> <i>You've got a mess,</i>
+
+503
+00:26:25,540 --> 00:26:28,210
+<i>and you're still using
+the next leading brand.</i>
+
+504
+00:26:29,710 --> 00:26:32,050
+<i>You need Lagos brand paper towels.</i>
+
+505
+00:26:32,130 --> 00:26:34,380
+<i>The most absorbent paper towel available.</i>
+
+506
+00:26:36,680 --> 00:26:38,050
+<font color="#ff00ff">(SIGHS)</font>
+
+507
+00:26:39,760 --> 00:26:41,890
+<i>Husbands can use it too, you know.</i>
+
+508
+00:26:43,100 --> 00:26:47,100
+<i>Lagos. For when you make
+a mess you didn't mean to.</i>
+
+509
+00:26:49,860 --> 00:26:52,320
+<font color="#138ce9">TOMMY:</font> Sparky! Come on, boy!
+
+510
+00:26:52,400 --> 00:26:54,990
+<font color="#138ce9">BILLY:</font> Sparky! Sparky!
+
+511
+00:26:55,070 --> 00:26:58,030
+- Here, boy! Sparky!
+- Hey, what's the trouble, little dudes?
+
+512
+00:26:58,110 --> 00:27:00,030
+- We can't find our dog.
+- Ah, don't worry.
+
+513
+00:27:00,120 --> 00:27:01,240
+He's sure to turn up.
+
+514
+00:27:01,320 --> 00:27:04,450
+Your mom won't let him get far. Ma'am.
+
+515
+00:27:05,370 --> 00:27:06,960
+I don't know where he could've gone.
+
+516
+00:27:07,040 --> 00:27:08,210
+Here, boy!
+
+517
+00:27:08,290 --> 00:27:10,420
+- Sparky! Sparky!
+- Sparky!
+
+518
+00:27:10,500 --> 00:27:12,090
+<font color="#ff00ff">(RUSTLING)</font>
+
+519
+00:27:14,210 --> 00:27:15,550
+<font color="#ff00ff">(GASPS)</font>
+Sparky!
+
+520
+00:27:17,170 --> 00:27:19,180
+<font color="#ff00ff">(SIGHING)</font>
+
+521
+00:27:19,340 --> 00:27:21,260
+I...
+<font color="#ff00ff">(GASPS)</font>
+
+522
+00:27:22,390 --> 00:27:25,390
+I didn't wanna come
+until I'd wrapped him up.
+
+523
+00:27:26,680 --> 00:27:27,810
+What happened to him?
+
+524
+00:27:27,890 --> 00:27:29,770
+<font color="#138ce9">AGNES:</font> Found him in my azalea bushes.
+
+525
+00:27:29,850 --> 00:27:31,770
+Don't know how many leaves he ate.
+
+526
+00:27:31,860 --> 00:27:34,360
+I didn't find him until it was too late.
+
+527
+00:27:36,070 --> 00:27:37,070
+Oh...
+
+528
+00:27:38,610 --> 00:27:42,200
+Tommy, Billy, I'm so sorry.
+
+529
+00:27:43,780 --> 00:27:45,370
+Wait. Don't. Don't.
+
+530
+00:27:45,450 --> 00:27:48,000
+- Don't what?
+- Don't age yourselves up.
+
+531
+00:27:48,080 --> 00:27:52,750
+The urge to run
+from this feeling is powerful.
+
+532
+00:27:52,830 --> 00:27:53,960
+I know.
+
+533
+00:27:56,000 --> 00:27:57,420
+It's too sad.
+
+534
+00:27:58,170 --> 00:28:01,840
+You can fix anything, Mom. Fix the dead.
+
+535
+00:28:03,430 --> 00:28:04,510
+What?
+
+536
+00:28:07,180 --> 00:28:08,180
+No.
+
+537
+00:28:09,600 --> 00:28:10,980
+You can do that?
+
+538
+00:28:15,820 --> 00:28:18,690
+I am trying to tell you
+
+539
+00:28:18,780 --> 00:28:22,070
+that there are rules in life, okay?
+
+540
+00:28:22,160 --> 00:28:26,740
+We can't rush aging
+just because it's convenient. <font color="#ff00ff">(CHUCKLES)</font>
+
+541
+00:28:27,790 --> 00:28:31,920
+And we can't reverse death.
+
+542
+00:28:32,920 --> 00:28:34,710
+No matter how sad it makes us.
+
+543
+00:28:35,590 --> 00:28:37,590
+Okay? Some things are forever.
+
+544
+00:28:38,550 --> 00:28:40,840
+<font color="#ff00ff">(SIGHS)</font>
+You said family is forever.
+
+545
+00:28:40,920 --> 00:28:43,180
+<font color="#138ce9">TOMMY:</font> He is family.
+
+546
+00:28:43,260 --> 00:28:44,970
+Bring him back, Mom.
+
+547
+00:28:46,050 --> 00:28:47,180
+<font color="#138ce9">VISION:</font> Bring who back?
+
+548
+00:28:52,140 --> 00:28:53,190
+<font color="#ff00ff">(SIGHS)</font>
+
+549
+00:28:58,070 --> 00:29:01,030
+Oh, boys. Come here.
+
+550
+00:29:04,990 --> 00:29:07,200
+<font color="#ff00ff">(SOMBER MUSIC PLAYING)</font>
+
+551
+00:29:21,420 --> 00:29:22,800
+How are the boys?
+
+552
+00:29:24,090 --> 00:29:26,260
+A little heartbroken,
+but they'll be all right.
+
+553
+00:29:31,220 --> 00:29:36,060
+Well, it's not often you get a dog
+and bury them the same day.
+
+554
+00:29:36,150 --> 00:29:39,070
+Well, life moves pretty fast
+out in the suburbs.
+
+555
+00:29:43,700 --> 00:29:45,160
+I spoke with Norm.
+
+556
+00:29:45,740 --> 00:29:46,740
+Oh?
+
+557
+00:29:47,620 --> 00:29:49,700
+I unearthed the man's
+suppressed personality
+
+558
+00:29:49,790 --> 00:29:52,000
+and I spoke to him free of your oversight.
+
+559
+00:29:53,500 --> 00:29:54,830
+He was in pain, Wanda.
+
+560
+00:29:56,330 --> 00:29:58,000
+Vision... <font color="#ff00ff">(CHUCKLES LIGHTLY)</font>
+
+561
+00:29:59,000 --> 00:30:00,880
+Listen, can we just...
+<font color="#138ce9">VISION:</font> What?
+
+562
+00:30:02,170 --> 00:30:03,340
+Watch TV?
+
+563
+00:30:04,260 --> 00:30:08,140
+Turn in for the night so that
+you can change everything over again?
+
+564
+00:30:08,220 --> 00:30:09,430
+No, Wanda.
+
+565
+00:30:10,810 --> 00:30:12,970
+You can't control me the way you do them.
+
+566
+00:30:14,850 --> 00:30:16,100
+Can't I?
+
+567
+00:30:16,190 --> 00:30:18,310
+<font color="#ff00ff">(MUSIC PLAYING)</font>
+
+568
+00:30:18,400 --> 00:30:20,690
+<font color="#ff00ff">(APPLAUSE)</font>
+
+569
+00:30:20,770 --> 00:30:21,980
+I'm going to bed.
+
+570
+00:30:22,070 --> 00:30:23,900
+<font color="#138ce9">VISION:</font> No! We're not done here.
+
+571
+00:30:25,360 --> 00:30:27,610
+What is the "Maximoff Anomaly"?
+
+572
+00:30:27,700 --> 00:30:28,700
+The what?
+
+573
+00:30:29,490 --> 00:30:32,290
+I have to believe
+that this, whatever this is,
+
+574
+00:30:32,370 --> 00:30:33,790
+was subconscious at first
+
+575
+00:30:33,870 --> 00:30:36,420
+and that you only
+recently became aware of it.
+
+576
+00:30:36,500 --> 00:30:38,960
+Aware of what?
+
+577
+00:30:39,040 --> 00:30:40,990
+Norm has a family, Wanda!
+<font color="#ff00ff">(ELECTRICITY CRACKLING)</font>
+
+578
+00:30:41,000 --> 00:30:43,130
+He has a family, and he can't reach them
+
+579
+00:30:43,210 --> 00:30:46,590
+- because you won't let him reach them!
+- I don't know what you're talking about!
+
+580
+00:30:46,680 --> 00:30:48,300
+Stop lying to me!
+
+581
+00:30:48,430 --> 00:30:54,520
+<font color="#ff00ff">(ELECTRICITY BUZZING)</font>
+This, all of this is for us.
+
+582
+00:30:54,600 --> 00:30:56,890
+So let me handle it.
+
+583
+00:30:56,980 --> 00:30:58,810
+What is outside of Westview?
+
+584
+00:31:00,310 --> 00:31:02,150
+You don't wanna know, I promise you.
+
+585
+00:31:02,230 --> 00:31:05,400
+You don't get to make
+that choice for me, Wanda!
+
+586
+00:31:07,110 --> 00:31:09,490
+You've never talked to me
+like this before.
+
+587
+00:31:09,570 --> 00:31:12,330
+Before what? <font color="#ff00ff">(VOICE RISES)</font> Before what?
+
+588
+00:31:12,410 --> 00:31:14,620
+I can't remember my life before Westview.
+
+589
+00:31:14,700 --> 00:31:16,370
+I don't know who I am!
+
+590
+00:31:16,460 --> 00:31:17,830
+I'm scared!
+
+591
+00:31:19,080 --> 00:31:20,170
+<font color="#ff00ff">(BUZZING STOPS)</font>
+
+592
+00:31:20,250 --> 00:31:22,790
+You are my husband.
+
+593
+00:31:24,590 --> 00:31:27,130
+You are Tommy and Billy's father.
+
+594
+00:31:27,220 --> 00:31:28,930
+Isn't that enough?
+
+595
+00:31:33,930 --> 00:31:36,430
+Wanda, why are there
+no other children in Westview?
+
+596
+00:31:36,520 --> 00:31:38,310
+Oh, God! There are! Just stop it!
+
+597
+00:31:38,390 --> 00:31:39,560
+No. No.
+
+598
+00:31:40,230 --> 00:31:43,440
+The playground stands empty
+every morning I walk to work.
+
+599
+00:31:43,520 --> 00:31:44,610
+Why? Tell me why?
+
+600
+00:31:44,690 --> 00:31:47,740
+Do you really think
+that I am controlling everything?
+
+601
+00:31:48,820 --> 00:31:52,530
+That I am somehow
+in charge of everybody in Westview?
+
+602
+00:31:52,620 --> 00:31:54,370
+I'm walking their dogs,
+mowing their lawns,
+
+603
+00:31:54,450 --> 00:31:56,540
+getting them to
+dentist appointments on time?
+
+604
+00:31:56,620 --> 00:31:58,290
+I mean, I... <font color="#ff00ff">(CHUCKLES DRYLY)</font>
+
+605
+00:32:00,920 --> 00:32:04,590
+I don't know how any of this started
+in the first place.
+
+606
+00:32:06,090 --> 00:32:10,180
+Wanda, what you're doing here, it's wrong.
+
+607
+00:32:10,260 --> 00:32:12,390
+- I... <font color="#ff00ff">(WHIMPERS)</font>
+- It is wrong.
+
+608
+00:32:12,470 --> 00:32:13,600
+<font color="#ff00ff">(DOORBELL RINGS)</font>
+
+609
+00:32:19,770 --> 00:32:21,270
+I didn't do that.
+
+610
+00:32:21,350 --> 00:32:22,810
+I...
+
+611
+00:32:25,940 --> 00:32:27,440
+You don't believe me.
+
+612
+00:32:27,530 --> 00:32:31,950
+Wanda, I want to, but at this point,
+I'm ignoring statistics entirely.
+
+613
+00:32:33,450 --> 00:32:34,830
+<font color="#ff00ff">(DOORBELL RINGS)</font>
+
+614
+00:32:38,790 --> 00:32:39,910
+<font color="#ff00ff">(WANDA SNIFFLES)</font>
+
+615
+00:32:43,460 --> 00:32:45,500
+<font color="#ff00ff">(WANDA BREATHES DEEPLY)</font>
+
+616
+00:32:52,050 --> 00:32:54,300
+<font color="#ff00ff">(INDISTINCT CHATTER)</font>
+<font color="#ff00ff">(ALARM BLARING)</font>
+
+617
+00:33:01,940 --> 00:33:03,230
+Wanda, who is this?
+
+618
+00:33:13,110 --> 00:33:14,360
+<font color="#ff00ff">(GASPS SOFTLY)</font>
+
+619
+00:33:16,580 --> 00:33:18,410
+<font color="#ff00ff">(AUDIENCE CHEERS)</font>
+
+620
+00:33:23,290 --> 00:33:26,460
+Long lost bro get to squeeze
+his stinkin' sister to death or what?
+
+621
+00:33:26,540 --> 00:33:28,340
+<font color="#ff00ff">(AUDIENCE LAUGHS)</font>
+
+622
+00:33:28,460 --> 00:33:30,460
+She recast Pietro?
+
+623
+00:33:37,550 --> 00:33:38,970
+<font color="#ff00ff">(WHISPERS)</font> Pietro?
+
+624
+00:33:41,930 --> 00:33:43,690
+Oh. <font color="#ff00ff">(WHIMPERS)</font>
+
+625
+00:33:43,770 --> 00:33:45,770
+<font color="#ff00ff">(AUDIENCE CHEERS)</font>
+
+626
+00:33:47,860 --> 00:33:49,020
+Who's the popsicle?
+
+627
+00:33:49,110 --> 00:33:51,360
+<font color="#ff00ff">(AUDIENCE LAUGHS AND CHEERS)</font>
+
+628
+00:33:51,360 --> 00:34:06,360
+<font color="#ff00ff">- Sync and corrections by SilverStark </font><font color="#138ce9">- www.opensubtitles.org -</font>
+<font color="#ffff00">Colored HI by </font><font color="#f0100f">GoldBerg_44</font>
+
